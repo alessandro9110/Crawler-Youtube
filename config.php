@@ -3,7 +3,7 @@
 // setup: rename this file to config.php, get an API key from https://code.google.com/apis/console and paste it below.
 
 // Google API key
-$apikey = "AIzaSyCfcQnlNB7L-oUmM8lG2LzMdvY8Ghx3oXs";
+$apikey = " ";
 
 // php runtime variables
 ini_set("default_charset", "UTF-8");
