@@ -1,0 +1,26 @@
+[29-Jun-2017 13:45:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 40
+[29-Jun-2017 13:45:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 40
+[29-Jun-2017 14:33:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 68
+[29-Jun-2017 14:35:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 70
+[29-Jun-2017 14:37:38 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 70
+[29-Jun-2017 14:38:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 70
+[29-Jun-2017 14:38:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 70
+[29-Jun-2017 14:39:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$seeds' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 61
+[29-Jun-2017 15:20:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /home/ykyqhmer/public_html/crawler_youtube/index.php on line 80
+[29-Jun-2017 15:49:04 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:49:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$reply' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:49:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$reply' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:49:59 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:50:05 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:50:09 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 15:57:08 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 26
+[29-Jun-2017 16:12:19 Europe/Berlin] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 25
+[29-Jun-2017 16:12:56 Europe/Berlin] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 25
+[29-Jun-2017 16:34:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$length' (T_VARIABLE) in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 23
+[29-Jun-2017 16:35:23 Europe/Berlin] PHP Fatal error:  Call to undefined function len() in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 23
+[29-Jun-2017 16:35:45 Europe/Berlin] PHP Fatal error:  Call to undefined function len() in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 23
+[29-Jun-2017 17:38:34 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 78
+[29-Jun-2017 17:38:34 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 11
+[29-Jun-2017 17:38:34 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 19
+[29-Jun-2017 17:38:34 Europe/Berlin] PHP Warning:  file_put_contents(./data/channelnet__nodes0_2017_06_29-17_38_34.gdf): failed to open stream: No such file or directory in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 29
+[29-Jun-2017 17:42:54 Europe/Berlin] PHP Warning:  file_put_contents(./data/channelnet_1_nodes57_2017_06_29-17_42_54.gdf): failed to open stream: No such file or directory in /home/ykyqhmer/public_html/crawler_youtube/functions.php on line 29

@@ -1,0 +1,2 @@
+NODI==>name VARCHAR,label VARCHAR,isSeed VARCHAR,seedRank INT,subscriberCount INT,videoCount INT,viewCount(100s) INT
+ARCHI==>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
