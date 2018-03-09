@@ -1,2 +1,4 @@
 # Crawler Youtube
-Script PHP per recuperare i "Featured Channels" di un canale e dei suoi amici.
+PHP Script for Youtube.
+
+Th script creates a Gephi file.
